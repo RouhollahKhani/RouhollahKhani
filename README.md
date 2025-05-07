@@ -17,9 +17,9 @@
 
 - 📫 How to reach me [Telegram Account](https://t.me/RouhollahKhani/)
 
-- 😄 Pronouns: ...
+<!-- - 😄 Pronouns: ...
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 <br>
 
 
