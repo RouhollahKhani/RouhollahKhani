@@ -11,7 +11,8 @@
 <!-- - 👨‍💻 I’m currently recording **'Flutter'** course -->
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤝 Flutter Developer at [DeltaGroup](https://deltagroup.ir/)
+<!-- - 🤝 Flutter Developer at [DeltaGroup](https://deltagroup.ir/) -->
+- 👨‍💻 Android & Flutter Developer 
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about **Native Development , Cross Platform Development**
 
